@@ -8,7 +8,8 @@
     "build": "tsc",
     "start": "node dist/index.js",
     "testJest": "jest",
-    "createPhoneNumber": "jest Tests/CreatePhoneNumber.test.ts"
+    "createPhoneNumber": "jest Tests/CreatePhoneNumber.test.ts",
+    "removeVowels": "jest Tests/RemoveVowels.test.ts"
   },
   "repository": {
     "type": "git",

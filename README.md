@@ -2,29 +2,25 @@
 
 Welcome to my repository for practicing algorithms! Here, I’ll be uploading exercises to improve my problem-solving skills, strengthen my understanding of algorithms, and explore different techniques.
 
-📂 Structure of the Repository
 • Exercises are written in TypeScript for type safety and modern JavaScript features.
 
 🛠️ Technologies Used
 • TypeScript: The primary language for implementing the algorithms.
-• Node.js: To execute the scripts locally.
-• Testing Framework (optional): Tests for validating the implementations might be included using frameworks like Jest.
+• Jest: For validating the implementations.
 
-🚀 How to Use 1. Clone the repository:
+🚀 How to Use:
 
-git clone https://github.com/your-username/algorithm-practice.git
+    1. Clone the repository:
 
-    2.	Navigate to the folder:
+git clone https://github.com/DamianIanni/Typescript-Algorithms.git
 
-cd algorithm-practice
-
-    3.	Install dependencies (if applicable):
+    3.	Install dependencies to use Jest:
 
 npm install
 
     4.	Run an example:
 
-npx ts-node path/to/example.ts
+npm run getMiddle
 
 ✨ Goals
 • Gain deeper insights into core algorithmic concepts.

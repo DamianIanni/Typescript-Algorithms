@@ -9,7 +9,8 @@
     "start": "node dist/index.js",
     "testJest": "jest",
     "createPhoneNumber": "jest Tests/CreatePhoneNumber.test.ts",
-    "removeVowels": "jest Tests/RemoveVowels.test.ts"
+    "removeVowels": "jest Tests/RemoveVowels.test.ts",
+    "getMiddle": "jest Tests/GettingTheMiddleFinger.test.ts"
   },
   "repository": {
     "type": "git",

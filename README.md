@@ -10,17 +10,17 @@ Welcome to my repository for practicing algorithms! Here, I’ll be uploading ex
 
 🚀 How to Use:
 
-    1. Clone the repository:
+Clone the repository
 
-git clone https://github.com/DamianIanni/Typescript-Algorithms.git
+    1.  git clone https://github.com/DamianIanni/Typescript-Algorithms.git
 
-    3.	Install dependencies to use Jest:
+Install dependencies to use Jest
 
-npm install
+    2.	npm install
 
-    4.	Run an example:
+Run an example:
 
-npm run getMiddle
+    3.	npm run getMiddle
 
 ✨ Goals
 • Gain deeper insights into core algorithmic concepts.

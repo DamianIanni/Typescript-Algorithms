@@ -11,7 +11,7 @@
     "createPhoneNumber": "jest Tests/CreatePhoneNumber.test.ts",
     "removeVowels": "jest Tests/RemoveVowels.test.ts",
     "getMiddle": "jest Tests/GettingTheMiddleFinger.test.ts",
-    "equalArrSides": "jest Tests/EqualArraySides.test.ts"
+    "equalArrSides": "jest Tests/EqualSidesArray.test.ts"
   },
   "repository": {
     "type": "git",

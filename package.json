@@ -12,7 +12,8 @@
     "removeVowels": "jest Tests/RemoveVowels.test.ts",
     "getMiddle": "jest Tests/GettingTheMiddleFinger.test.ts",
     "equalArrSides": "jest Tests/EqualSidesArray.test.ts",
-    "uniqueInOrder": "jest Tests/UniqueInOrder.test.ts"
+    "uniqueInOrder": "jest Tests/UniqueInOrder.test.ts",
+    "sumPairs": "jest Tests/SumPairs.test.ts"
   },
   "repository": {
     "type": "git",

@@ -13,7 +13,8 @@
     "getMiddle": "jest Tests/GettingTheMiddleFinger.test.ts",
     "equalArrSides": "jest Tests/EqualSidesArray.test.ts",
     "uniqueInOrder": "jest Tests/UniqueInOrder.test.ts",
-    "sumPairs": "jest Tests/SumPairs.test.ts"
+    "sumPairs": "jest Tests/SumPairs.test.ts",
+    "deadFish": "jest Tests/DeadFishLanguage.test.ts"
   },
   "repository": {
     "type": "git",

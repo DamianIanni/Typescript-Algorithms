@@ -30,8 +30,10 @@ export const deadFish = (command: string): number[] => {
       case "s":
         num = num * num;
         break;
-      default:
+      case "o":
         result.push(num);
+        break;
+      default:
         break;
     }
   }
